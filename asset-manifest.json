@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/TomCuaCa/static/css/main.f907f66b.chunk.css",
+    "main.js": "/TomCuaCa/static/js/main.775d99bc.chunk.js",
+    "main.js.map": "/TomCuaCa/static/js/main.775d99bc.chunk.js.map",
+    "runtime-main.js": "/TomCuaCa/static/js/runtime-main.3e658098.js",
+    "runtime-main.js.map": "/TomCuaCa/static/js/runtime-main.3e658098.js.map",
+    "static/js/2.cfcf0cb5.chunk.js": "/TomCuaCa/static/js/2.cfcf0cb5.chunk.js",
+    "static/js/2.cfcf0cb5.chunk.js.map": "/TomCuaCa/static/js/2.cfcf0cb5.chunk.js.map",
+    "static/js/3.76fc795c.chunk.js": "/TomCuaCa/static/js/3.76fc795c.chunk.js",
+    "static/js/3.76fc795c.chunk.js.map": "/TomCuaCa/static/js/3.76fc795c.chunk.js.map",
+    "index.html": "/TomCuaCa/index.html",
+    "static/css/main.f907f66b.chunk.css.map": "/TomCuaCa/static/css/main.f907f66b.chunk.css.map",
+    "static/js/2.cfcf0cb5.chunk.js.LICENSE.txt": "/TomCuaCa/static/js/2.cfcf0cb5.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/TomCuaCa/static/media/Pony.99ddd1e5.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e658098.js",
+    "static/js/2.cfcf0cb5.chunk.js",
+    "static/css/main.f907f66b.chunk.css",
+    "static/js/main.775d99bc.chunk.js"
+  ]
+}
