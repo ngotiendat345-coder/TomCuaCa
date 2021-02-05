@@ -2,9 +2,12 @@ import React from 'react';
 import XucSac from './XucSac'
 import {useSelector,useDispatch} from 'react-redux'
 import {PlayGame} from '../action/action';
+
 function XucSacContainer(){
-    const {mangXucSac,tienMat}=useSelector((state)=>state.BauCuaReducer);
+    const mangXucSac=useSelector((state)=>state.BauCuaReducer.mangXucSac);
+
     const dispatch=useDispatch();
+    console.log('xucsac container fired')
     return(
         <article>
             <div className="plate_container">
@@ -20,7 +23,7 @@ function XucSacContainer(){
             <img src="./img/soc.png" className="img-fluid"/>
         </button>
         <div>
-           <h3 >Còn lại: <span className="text-danger">{tienMat}$</span></h3>
+           {/* <h3 >Còn lại: <span className="text-danger">{tienMat}$</span></h3> */}
         </div>
         </article>
     )
